@@ -6,11 +6,9 @@ FloraVision is an advanced image classification model that identifies **102 diff
 - 🏆 **Classifies 102 Flower Species** using a Convolutional Neural Network (CNN).
 - 📸 **Uploads & Predicts** flower species from images.
 - 🔥 **Powered by Flask** backend with a TensorFlow model.
-- 🎨 **Beautiful Frontend** built with React.
 - 📊 **High Accuracy Model** trained on the Oxford 102 Flower Dataset.
 
 ## ⚡ Tech Stack
 - **Backend:** Flask, TensorFlow, NumPy, Pillow
-- **Frontend:** React.js
 - **Model:** Pretrained CNN using TensorFlow/Keras
 - **Deployment:** Flask API
